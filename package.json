@@ -1,0 +1,23 @@
+{
+  "id": "franz-discord-adv",
+  "name": "Discord Adv",
+  "version": "1.0.3",
+  "description": "Discord Adv",
+  "main": "index.js",
+  "author": "webworker01",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://discordapp.com/login",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "hasPredefinedUrl": true,
+    "hasCustomUrl": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    }
+  }
+}
