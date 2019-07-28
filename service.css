@@ -1,8 +1,7 @@
 .notice {
-  display: none;
+    display: none;
 }
 
-.messageGroupBlocked-3wrQQX , .messageGroupBlockedBtn-1PBBh-
-{
-display:none
+div[class^="messageGroupBlocked"] {
+    display: none;
 }
